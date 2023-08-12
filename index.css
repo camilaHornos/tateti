@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(167, 159, 159);
+
+}
+
+
+.bt{
+   width: 260px;
+   height: 210px;
+}
+
+
+.conten{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    width: 400px;
+   margin-top:200px;
+   margin-left: 550px;
+}
+
